@@ -19,7 +19,21 @@ h1 {
     padding-top: 10rem;
 }
 
-h2, h3, h4, h5, h6, span{
+body h2, 
+body h3, 
+body h4, 
+body h5, 
+body h6, 
+body span{
+  color: pink !important;
+}
+
+#body h2, 
+#body h3, 
+#body h4, 
+#body h5, 
+#body h6, 
+#body span{
   color: pink !important;
 }
 
